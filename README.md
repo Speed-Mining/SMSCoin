@@ -7,3 +7,6 @@ Our cloudsale starts from 27 October 2017, 14:00 (JST) with the different bonus 
 
 SMS coin team,
 https://smscoin.jp
+
+Token address
+https://etherscan.io/address/0x39013f961c378f02c2b82a6e1d31e9812786fd9d
